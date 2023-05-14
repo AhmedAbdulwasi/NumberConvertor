@@ -1,2 +1,2 @@
-# NumberConvertor
-Using python to convert and represent numbers in Decimal, Binary, Octal, and Hexadecimal
+# Number Convertor
+It converts decimal numbers to Binary, Octal, and Hexadecimal. It also converts Binary, Octal, and Hexadecimal. I might add more conversion and maybe arthematic operations.
